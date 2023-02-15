@@ -1,9 +1,3 @@
-#block, .bbb
-h2 {
-	font-size: 20px;
-	color: purple;
-}
-h2 {
-	font-style: normal;
-	color: orange;
+.elem + li {
+	color: blue;
 }
