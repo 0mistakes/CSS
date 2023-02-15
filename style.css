@@ -1,9 +1,18 @@
-#elem1 {
-    color: red;
+.box {
+    border: 5px solid red;
+    margin: 10px;
+    padding-left: 10px;
 }
-#elem2 {
+
+div#elem h2 {
     color: green;
 }
-#elem3 {
-    color: blue;
+#elem .text {
+    color: green;
+}
+#elem_3 p.text_3 {
+    color: green;
+}
+#elem_4 li.text_4 {
+    color: green;
 }
