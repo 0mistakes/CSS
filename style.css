@@ -1,38 +1,17 @@
-#block h1, #block h2 {
+#block, .bbb
+{
 	text-align: center;
-}
-
-#block h1, #block h2 {
-	text-align: center;
-	font-size: 30px;
-}
-#block h2 {
+	color: purple;
 	font-size: 20px;
 }
-
-#block h1, #block h2, #block h3 {
+.fff, h2.xxx
+{
 	text-align: center;
-}
-#block h2 {
-	color: blue;
-}
-#block h3 {
-	font-size: 16px;
-	color: red;
-}
-
-#block h1.eee, #block h2.zzz {
-	text-align: center;
-	font-size: 30px;
-}
-#block h2.zzz {
+	color: orange;
 	font-size: 20px;
 }
-
-.xxx .kkk, .eee h2.zzz, #eee h2 {
+.xxx
+{
 	text-align: center;
-}
-
-.eee h2.zzz, .xxx {
-	text-align: center;
+	color: yellow;
 }
