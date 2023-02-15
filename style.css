@@ -1,59 +1,38 @@
-.bbb.zzz {
+#block h1, #block h2 {
+	text-align: center;
+}
+
+#block h1, #block h2 {
+	text-align: center;
+	font-size: 30px;
+}
+#block h2 {
+	font-size: 20px;
+}
+
+#block h1, #block h2, #block h3 {
+	text-align: center;
+}
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
 	color: red;
 }
 
-h2.bbb.zzz {
-	color: red;
+#block h1.eee, #block h2.zzz {
+	text-align: center;
+	font-size: 30px;
+}
+#block h2.zzz {
+	font-size: 20px;
 }
 
-#elem.bbb {
-	color: red;
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
 }
 
-#elem.bbb.zzz {
-	color: red;
-}
-
-h2#elem.bbb {
-	color: red;
-}
-
-h2.zzz {
-	color: red;
-}
-
-h2 .zzz {
-	color: red;
-}
-
-.bbb.zzz {
-	color: red;
-}
-
-.bbb .zzz {
-	color: red;
-}
-
-.bbb.zzz.xxx {
-	color: red;
-}
-
-.bbb .zzz.xxx {
-	color: red;
-}
-
-.bbb.zzz .xxx {
-	color: red;
-}
-
-.bbb .zzz .xxx {
-	color: red;
-}
-
-#elem.bbb {
-	color: red;
-}
-
-#elem .bbb {
-	color: red;
+.eee h2.zzz, .xxx {
+	text-align: center;
 }
