@@ -1,21 +1,9 @@
-.success {
-	color: green;
+#elem1 {
+    color: red;
 }
-.error {
-	color: red;
+#elem2 {
+    color: green;
 }
-.large {
-	font-size: 30px;
-}
-.small {
-	font-size: 20px;
-}
-.first {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.second {
-    font-size: 30px;
-}
-.third {
-    font-style: bold;
+#elem3 {
+    color: blue;
 }
