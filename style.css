@@ -1,11 +1,8 @@
-main * title {
-	color: orange;
-}
-main * link
-{
+a {
 	color: purple;
+	text-decoration: none;
 }
-main * .top
-{
-	color: yellow;
+a:hover {
+	color: orange;
+	text-decoration:underline;
 }
