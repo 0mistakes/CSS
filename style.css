@@ -1,18 +1,7 @@
-.box {
-    border: 5px solid red;
-    margin: 10px;
-    padding-left: 10px;
+* {
+    font-size: 50px;
 }
-
-div#elem h2 {
-    color: green;
-}
-#elem .text {
-    color: green;
-}
-#elem_3 p.text_3 {
-    color: green;
-}
-#elem_4 li.text_4 {
+.eee.zzz.ccc {
+    font-size: larger;
     color: green;
 }
