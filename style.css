@@ -1,7 +1,30 @@
 #elem {
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
 	width: 300px;
-	height: 100px;
-	color: white;
-    text-align: center;
-	background-color: green
+	height: 200px;
+}
+
+#elem2 {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 300px;
+	height: 200px;
+}
+
+#elem3 {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+	width: 300px;
+	height: 200px;
+}
+#elem4 {
+	border-width: 10px;
+	border-style: double;
+	border-color: blue; 
+	width: 300px;
+	height: 200px;
 }
