@@ -1,6 +1,5 @@
 #elem {
-	width: 100px;
-	height: 100px;
-	border: 1px solid green;
-	border-radius: 50%;
+	background-image: url("bg.png") center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
