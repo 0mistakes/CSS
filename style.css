@@ -1,17 +1,19 @@
 #elem {
-	width: 300px;
+	width: 200px;
 	height: 200px;
-	border-left: 3px solid orange;
-	border-right: 3px solid green;
-    border-top: 3px solid blue;
-	border-bottom: 3px solid red;
+	border: 1px solid green;
+	border-radius: 15px;
+}
+#elem2 {
+	border-radius: 15px;
+	width: 200px;
+	height: 200px;
+	background-color: green;
 }
 
-#elem2 {
-	width: 300px;
+#elem3 {
+	width: 200px;
 	height: 200px;
-	border-left: 3px solid red;
-	border-right: 3px dotted green;
-    border-top: 1px solid blue;
-	border-bottom: 1px solid blue;
+	border-radius: 100px;
+	border: 1px solid green;
 }
