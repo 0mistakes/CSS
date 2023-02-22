@@ -1,11 +1,11 @@
-#elem ul {
-	list-style-type: square;
+#elem ol {
+	list-style-type: lower-alpha;
 }
 
-#elem1 ul {
-	list-style-type: circle;
+#elem1 ol {
+	list-style-type: lower-greek;
 }
 
-#elem2 ul {
-	list-style-type: none;
+#elem2 ol {
+	list-style-type: upper-alpha;
 }
