@@ -1,6 +1,5 @@
-div {
+span {
 	width: 100px;
 	height: 100px;
-	margin-bottom: 20px;
 	border: 1px solid red;
 }
