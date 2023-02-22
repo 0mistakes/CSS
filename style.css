@@ -1,7 +1,3 @@
-p:first-of-type {
+li:not(:first-child, :last-child) {
 	color: red;
-}
-
-h2:last-of-type {
-	color: red;
-}
+} 
