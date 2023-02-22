@@ -1,3 +1,7 @@
-li:not(:first-child, :last-child) {
-	color: red;
-} 
+#elem {
+	width: 300px;
+	height: 100px;
+	color: white;
+    text-align: center;
+	background-color: green
+}
