@@ -1,40 +1,13 @@
 #parent {
-	width: 200px;
-	height: 250px;
-	border: 1px solid red;
+	width: 400px;
+	height: 150px;
+	border: 1px solid orange;
 }
 
 #child {
-	height: 100px;
-	width: 100px;
-	border: 1px solid green;
-	margin: 50px;
-}
-
-#parent1 {
-	width: 200px;
-	height: 200px;
-	border: 1px solid red;
-}
-
-#child1 {
-	height: 100px;
-	width: 150px;
-	border: 1px solid green;
-	margin: 25px;
-	margin-top:  50px;
-}
-
-#parent2 {
-	width: 200px;
-	height: 150px;
-	border: 1px solid red;
-}
-
-#child2 {
-	height: 100px;
-	width: 60px;
-	border: 1px solid green;
-	margin: 25px;
-	margin-left:  60px;
+	height: 50px;
+	width: 180px;
+	border: 1px dotted blue;
+	margin-top: 40px;
+	margin-left: 100px;
 }
