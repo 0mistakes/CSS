@@ -1,11 +1,33 @@
-#elem ol {
-	list-style-type: lower-alpha;
+#parent {
+	width: 400px;
+	height: 400px;
+	border: 1px dotted blue;
 }
 
-#elem1 ol {
-	list-style-type: lower-greek;
+#child {
+	height: 300px;
+	width: 300px;
+	border: 1px solid orange;
+	margin: 50px;
 }
 
-#elem2 ol {
-	list-style-type: upper-alpha;
+#parent1 {
+	width: 400px;
+	height: 300px;
+	border: 1px dotted blue;
+}
+
+#child1 {
+	height: 250px;
+	width: 350px;
+	border: 1px dotted green;
+	margin: 25px;
+}
+
+#child2 {
+	height: 200px;
+	width: 300px;
+	border: 1px solid red;
+	margin: 50px;
+	transform: translate(0, -275px)
 }
