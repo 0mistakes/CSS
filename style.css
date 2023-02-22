@@ -1,12 +1,7 @@
-li{
-	border: 1px solid orange;
-	list-style-type: circle;
-	color: orange;
-	width: 150px;
+p:first-of-type {
+	color: red;
 }
-li:empty {
-	border: 1px solid purple;
-	list-style-type: circle;
-	color: purple;
-	width: 150px;
+
+h2:last-of-type {
+	color: red;
 }
