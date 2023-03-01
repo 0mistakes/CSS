@@ -1,7 +1,15 @@
 span {
+	display: inline;
 	width: 100px;
 	height: 100px;
 	border: 1px solid red;
+	margin-bottom: 20px;
 }
-/* Блочные элементы	<p> </p> <ul> </ul> <ol> </ol>
-Строчные элементы	<a> </a> <strong> </strong> <em> </em> */
+
+span1 {
+	display: block;
+	width: 150px;
+	height: 20px;
+	border: 1px solid red;
+	margin-bottom: 20px;
+}
